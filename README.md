@@ -21,6 +21,6 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 - 🔧  PyCharm | Visual Studio Code | Eclipse | Git
 - ☁   AWS EC2
-- 🖱   Adobe Premiere Pro | Adobe After Effects | Vegas Pro
+- 🎨   Adobe Premiere Pro | Adobe After Effects | Vegas Pro
 
 <br/>
