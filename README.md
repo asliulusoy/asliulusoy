@@ -8,7 +8,3 @@
 💻   Python | Java | C++ | HTML
 🔧   PyCharm | Visual Studio Code | Eclipse | Git
 ☁    AWS EC2
-
-
-
-
